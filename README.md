@@ -15,5 +15,5 @@ JOB 2
 
 here is the view:
 
-![alt text](https://github.com/zerocool-11/git_merge_using_jenkins/blob/master/images/task1.png?raw=true)
+![alt text](https://github.com/zerocool-11/git_merge_using_jenkins/blob/master/images/task.png?raw=true)
 
