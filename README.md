@@ -6,3 +6,14 @@ here are the screeenshots of my job
 JOB 1
 
 ![alt text](https://github.com/zerocool-11/git_merge_using_jenkins/blob/master/images/1.png?raw=true)
+
+
+JOB 2
+
+![alt text](https://github.com/zerocool-11/git_merge_using_jenkins/blob/master/images/2.png?raw=true)
+
+
+here is the view:
+
+![alt text](https://github.com/zerocool-11/git_merge_using_jenkins/blob/master/images/task1.png?raw=true)
+
